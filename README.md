@@ -9,4 +9,4 @@ Approach:
 4. Bag of Words technique used through CountVectorizer
 5. Used Naive-Bayes classifier for training and prediction
 
-Achieved 67.2 % accuracy
+Achieved 70 % accuracy
